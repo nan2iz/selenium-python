@@ -6,3 +6,28 @@
 1489107456542	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.SiiPLTgMVq7A
 1489107456545	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
 1489107456551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62296
+1489108181497	geckodriver	INFO	Listening on 127.0.0.1:62600
+1489108183524	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.g1oA7LbtH2Ox
+1489108183525	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489108183531	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62606
+1489108440933	geckodriver	INFO	Listening on 127.0.0.1:62699
+1489108442979	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.PnDoVbW40Zab
+1489108442981	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489108442992	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62705
+1489108445320	geckodriver	INFO	Listening on 127.0.0.1:62710
+1489108447333	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.T96JPFPTnuvG
+1489108447336	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489108447342	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62720
+1489108563897	geckodriver	INFO	Listening on 127.0.0.1:62902
+1489108565927	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.NqyYaCkdj8aR
+1489108565930	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489108565939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62908
+1489108614922	geckodriver	INFO	Listening on 127.0.0.1:62979
+1489108616938	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.mnEPmC8zD0Rf
+1489108616940	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489108616948	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62985
+1489108626767 Marionette: Element does not have an accessible object -> id: , tagName: META, className: 
+1489108670022	geckodriver	INFO	Listening on 127.0.0.1:63040
+1489108672052	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.EzFVl4NBS6kp
+1489108672054	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489108672063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63046
