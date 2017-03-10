@@ -2,3 +2,7 @@
 1489107283153	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.FDttqdm6alP1
 1489107283155	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
 1489107283161	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62235
+1489107454517	geckodriver	INFO	Listening on 127.0.0.1:62290
+1489107456542	mozprofile::profile	INFO	Using profile path C:\Users\NCHANT~1.AD\AppData\Local\Temp\rust_mozprofile.SiiPLTgMVq7A
+1489107456545	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489107456551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62296
