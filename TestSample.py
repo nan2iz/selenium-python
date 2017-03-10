@@ -4,7 +4,9 @@ from selenium.webdriver.common.keys import Keys
 
 class TestSample(unittest.TestCase):
     def setUp(self):
-        self.driver = webdriver.Firefox(executable_path=r'c:\lib\geckodriver.exe')
+        #for windows
+        #self.driver = webdriver.Firefox(executable_path=r'c:\lib\geckodriver.exe')
+        self.driver = webdriver.Firefox()
 
     def test_search_in_website(self):
         driver = self.driver
